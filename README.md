@@ -1,7 +1,7 @@
 BDGS COD 4 Server
 
 
-Prerequisites :
+Prerequisites
 
 * Ensure Static IP address is configured on the Server laptop/machine
 * Connect using Remote Desktop app for lagfree experience, vnc is considerably slower and do not have copy paste file functionality
@@ -21,12 +21,9 @@ Server Setup :
 * Add parameter +exec server.cfg
 * Add parameter of COD4x server Auth ID in the server.cfg to ensure server appears in server.cfg file
   * Source - http://cod4master.cod4x.ovh/
- 
 
-
-
-
-
+Rcon Tool
+* https://fearless-assassins.com/files/file/685-rconmaxmw/
 
 
 Useful rcon commands :
